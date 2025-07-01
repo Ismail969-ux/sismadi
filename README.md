@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Hi 👋, I'm Wawan Sismadi
 
 💻 Software Engineer from jakarta  
@@ -25,14 +26,12 @@ Here are some ideas to get you started:
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
 ⚡ Fun fact: [Fakta unik atau menarik tentang dirimu]  
 
----
-
-## 🛠️ Badge:
+## Badge:
 
 [![My Credly Badge](https://images.credly.com/size/140x140/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
 
 
-## 🛠️ Languages and Tools:
+## Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -42,16 +41,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
----
-
   
-## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide=prs&theme=default)
 
-
-## 📊 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide_title=true&hide=prs&theme=default)
- 
----
 
