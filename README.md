@@ -1,6 +1,8 @@
-## Hi there 👋
 
 <!--
+
+## Hi there 👋
+
 **sismadi/sismadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,16 +16,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋, I'm [Nama Kamu]
+# Hi 👋, I'm Wawan Sismadi
 
-💻 Software Engineer from [Lokasi Kamu]  
+💻 Software Engineer from jakarta  
 🌱 Currently learning [Topik yang sedang dipelajari]  
-👨‍💻 All of my projects are available at [https://github.com/namakamu](https://github.com/namakamu)  
+👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
 💬 Ask me about [Topik-topik seperti JavaScript, React, NodeJS, dll]  
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/namakamu)  
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
 ⚡ Fun fact: [Fakta unik atau menarik tentang dirimu]  
 
 ---
+
+## 🛠️ Badge:
+
+[![My Credly Badge](https://images.credly.com/size/140x140/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
+
 
 ## 🛠️ Languages and Tools:
 
@@ -37,9 +44,14 @@ Here are some ideas to get you started:
 
 ---
 
+  
+## 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sismadi&layout=compact&hide_border=true&theme=default)
+
+
 ## 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&hide_title=true&hide=prs&theme=default)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sismadi&show_icons=true&hide_title=true&hide=prs&theme=default)
+ 
 ---
 
