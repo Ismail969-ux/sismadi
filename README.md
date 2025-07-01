@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 # Hi 👋, I'm Wawan Sismadi
 
 💻 Software Engineer from jakarta  
-🌱 Currently learning [Topik yang sedang dipelajari]  
+🌱 Currently learning AI  
 👨‍💻 All of my projects are available at [https://github.com/sismadi](https://github.com/sismadi)  
-💬 Ask me about [Topik-topik seperti JavaScript, React, NodeJS, dll]  
+💬 Ask me about JavaScript, React, NodeJS  
 📫 Connect with me on [LinkedIn](https://linkedin.com/in/sismadi)  
 ⚡ Fun fact: [Fakta unik atau menarik tentang dirimu]  
 
