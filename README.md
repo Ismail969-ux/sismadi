@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ## Badge:
 
 [![My Credly Badge](https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
+[![My Credly Badge](https://images.credly.com/size/110x110/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png)](https://www.credly.com/badges/9b609235-b73a-4cd4-abc0-d344b4d5b696/public_url)
+
 
 
 ## Languages and Tools:
