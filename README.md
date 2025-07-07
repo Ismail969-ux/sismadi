@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## Link:  
 
 [Sinta](https://sinta.kemdikbud.go.id/authors/profile/6848496)  
-[Linkedin](https://www.linkedin.com/in/sismadi)  
-[Credly](https://www.credly.com/users/sismadi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sismadi)  
+[![Credly](https://img.shields.io/badge/Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/sismadi)  
 
  
 
