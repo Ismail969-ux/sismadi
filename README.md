@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 [![Google Cloud Cybersecurity Certificate](https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
 
 
+## Link:  
+
+[Sinta](https://sinta.kemdikbud.go.id/authors/profile/6848496)  
+[Linkedin](https://www.linkedin.com/in/sismadi)  
+[Credly](https://www.credly.com/users/sismadi)  
+
+ 
 
 
 ## Languages and Tools:
