@@ -37,7 +37,12 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sismadi)  
 [![Credly](https://img.shields.io/badge/Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/sismadi)  
 
+
  
+
+### Connect with me:
+[![LinkedIn](https://images.credly.com/size/100x100/images/5f3c1c47-144f-44d3-8df7-cd3b1bf3f553/image.png)](https://www.linkedin.com/in/sismadi)  
+[![Credly](https://img.icons8.com/?size=100&id=imamZukNSZr3)](https://www.credly.com/users/sismadi)
 
 
 ## Languages and Tools:
