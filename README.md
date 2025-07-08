@@ -31,18 +31,16 @@ Here are some ideas to get you started:
 [![Google Cloud Cybersecurity Certificate](https://images.credly.com/size/100x100/images/505080ad-3731-4b1d-98df-347655a45750/image.png)](https://www.credly.com/badges/6f897400-b7c2-4c35-b8ba-ef1bacdf6ba3/public_url)
 
 
-## Link:  
 
-[Sinta](https://sinta.kemdikbud.go.id/authors/profile/6848496)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sismadi)  
-[![Credly](https://img.shields.io/badge/Credly-orange?style=flat&logo=credly)](https://www.credly.com/users/sismadi)  
+### Connect with me:  
+
+[![Sinta](https://img.icons8.com/color/96/linkedin.png)](https://sinta.kemdikbud.go.id/authors/profile/6848496)  
+[![LinkedIn](https://img.icons8.com/color/96/linkedin.png)](https://www.linkedin.com/in/sismadi)  
+[![Credly](https://img.icons8.com/color/96/credly.png)](https://www.credly.com/users/sismadi)
 
 
- 
 
-### Connect with me:
-[![LinkedIn](https://images.credly.com/size/100x100/images/5f3c1c47-144f-44d3-8df7-cd3b1bf3f553/image.png)](https://www.linkedin.com/in/sismadi)  
-[![Credly](https://img.icons8.com/?size=100&id=imamZukNSZr3)](https://www.credly.com/users/sismadi)
+
 
 
 ## Languages and Tools:
